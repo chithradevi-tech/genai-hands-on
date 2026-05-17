@@ -92,7 +92,9 @@ splitter = CharacterTextSplitter(
 # Advantages
 
 ✅ Very simple
+
 ✅ Fast processing
+
 ✅ Easy implementation
 
 ---
@@ -100,7 +102,9 @@ splitter = CharacterTextSplitter(
 # Disadvantages
 
 ❌ May break sentences
+
 ❌ Context loss possible
+
 ❌ Lower semantic quality
 
 ---
@@ -169,7 +173,9 @@ splitter = RecursiveCharacterTextSplitter(
 # Advantages
 
 ✅ Maintains context
+
 ✅ Better retrieval quality
+
 ✅ Flexible splitting
 
 ---
@@ -177,6 +183,7 @@ splitter = RecursiveCharacterTextSplitter(
 # Disadvantages
 
 ❌ Slightly slower
+
 ❌ More complex than fixed chunking
 
 ---
@@ -233,7 +240,9 @@ Store Chunks
 # Advantages
 
 ✅ Preserves document meaning
+
 ✅ Better for structured documents
+
 ✅ Maintains logical flow
 
 ---
@@ -241,6 +250,7 @@ Store Chunks
 # Disadvantages
 
 ❌ Harder implementation
+
 ❌ Needs document parsing
 
 ---
@@ -300,7 +310,9 @@ splitter = TokenTextSplitter(
 # Advantages
 
 ✅ Optimized for LLM limits
+
 ✅ Better token management
+
 ✅ Prevents context overflow
 
 ---
@@ -308,6 +320,7 @@ splitter = TokenTextSplitter(
 # Disadvantages
 
 ❌ Needs tokenizer
+
 ❌ Slightly complex
 
 ---
@@ -358,7 +371,9 @@ Topic-Based Chunks
 # Advantages
 
 ✅ Best retrieval quality
+
 ✅ High contextual relevance
+
 ✅ Better LLM answers
 
 ---
@@ -366,7 +381,9 @@ Topic-Based Chunks
 # Disadvantages
 
 ❌ Computationally expensive
+
 ❌ Slower indexing
+
 ❌ Complex implementation
 
 ---
@@ -460,3 +477,6 @@ Grouping books by subject in a library
 
 ---
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/35aa63e4-2da1-4dd5-8ebe-bd85fa6ddd1d" />
+
+---
