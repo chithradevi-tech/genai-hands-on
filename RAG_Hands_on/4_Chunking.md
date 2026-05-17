@@ -275,9 +275,13 @@ Meaning preserved.
 # Advantages of Chunking
 
 ✅ Better retrieval accuracy
+
 ✅ Faster vector search
+
 ✅ Reduces token usage
+
 ✅ Improves LLM response quality
+
 ✅ Handles large documents efficiently
 
 ---
@@ -285,8 +289,11 @@ Meaning preserved.
 # Challenges
 
 ⚠ Choosing proper chunk size
+
 ⚠ Too small → loses context
+
 ⚠ Too large → poor retrieval
+
 ⚠ Overlap increases storage size
 
 ---
