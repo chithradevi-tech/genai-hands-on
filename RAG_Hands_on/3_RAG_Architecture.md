@@ -309,9 +309,13 @@ based on retrieved documents.
 # Advantages of RAG Architecture
 
 ✅ Accurate answers
+
 ✅ Real-time knowledge
+
 ✅ Supports private data
+
 ✅ Reduces hallucinations
+
 ✅ No retraining needed
 
 ---
@@ -319,8 +323,11 @@ based on retrieved documents.
 # Challenges
 
 ⚠ Bad chunking → poor retrieval
+
 ⚠ Slow retrieval for huge DBs
+
 ⚠ Context window limitations
+
 ⚠ Embedding quality matters
 
 ---
