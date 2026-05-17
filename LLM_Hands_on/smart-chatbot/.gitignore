@@ -1,0 +1,65 @@
+# -------------------------
+# Python cache
+# -------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -------------------------
+# Virtual environments
+# -------------------------
+venv/
+env/
+ENV/
+.venv/
+
+# -------------------------
+# Environment variables (IMPORTANT)
+# -------------------------
+.env
+.env.*
+!.env.example
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
+
+# -------------------------
+# OS files
+# -------------------------
+.DS_Store
+Thumbs.db
+
+# -------------------------
+# Streamlit config/cache
+# -------------------------
+.streamlit/
+
+# -------------------------
+# IDE / Editor
+# -------------------------
+.vscode/
+.idea/
+
+# -------------------------
+# Build / distribution
+# -------------------------
+build/
+dist/
+.eggs/
+*.egg-info/
+*.egg
+
+# -------------------------
+# Python cache / coverage
+# -------------------------
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# -------------------------
+# Project-specific files
+# -------------------------
+chat.json
