@@ -1,17 +1,5 @@
 # RAG Architecture
 
-![Image](https://images.openai.com/static-rsc-4/uWITETehZ9r1UpF5wAR3rTzc5wpXt3XcJQDR3tGhZN3t5rCWPPCPMKHGaWFF4FRRlL3X5N9pzwQvKlk6QVADYbF6anbkO78IcjI6CS6eNODaTMeaA9xceSj8uRZQtsV-4v6RCUhtX0XRjrrHjYtCyzpROhvWRmuFHXUwbivjRUMXnQq29dqVrRqnEYoSKCD6?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/GdZkYLWd5b9Wzsvs-knhd_HAo5ZgvV9l8iyiE-fvtHm3c2k1ngM2HmMKqBHNKHPFVSHUA3pUzauFOmOSwfwXOleJmMGlh7k0E722OPx09aY_HVd9LgYhPkon81MpqQBHV3Dy2Tol8heAiX1_v6Mbc57M_SgDIJizbp0ZW1iWC4PcrjOLZZqTZOonIC2Dl93u?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/N5-PZEXSq-4vBCP-zKC-QNq_8vuEW9YM4nVQDzt7hAff3sqnhBt2GmEXTd2cHJlcqswZOIgPecT_eblCmxcDIrGAv96JIyzmWXFbohytbEos7VYpMEu2xqMuK_hJRfYwv7tCP7RVTHx6UvvY55LgKuP_lIAgZM66hUCD-I56m26s22mF9QDL0JcdH1DVaJhO?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/3O8xQuMrOedWuxOUWxvGjiydAnIXR1YXh2X_QNn_ugnNT_E-IvtIuiK_RmDAucMUwbI1rC42wcSjxZXSxB4MR4f6lIDhiQFgcWGw_DaVkvGPE6igQjXYKbzuKJ-XDWcPigSwWJibmR4N03npJ2nqNy9Uz5WidrjpoW16aXXbmvvE1H190NLaIziNXo1ld8-H?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/JZM5aq2uZL6b0C0JMFjQI8-0mYrtf-nE9zrGq76weyvhfIxYx8bIKtTpENITtttyiKzeHd9cavqWU1AJSwR5u79yM9DT4Hj-RwoZLHg3rLWT2f_8F5X8_X2SjNJ_WTyCPoqXGby8Yu8oACflT4Hv8hAnXHVGyV5EHMUdYzkwGjBucCa97jCIJh9T9usxjGzG?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/tID6Ap7Y02nipW6ntIYxWVnU1vX4GMJ0qEMDGvxNSFeWcdQdaqkrLbQxdfavOJJZG6k4R8FUDUpsE_Kf_Sztb6hkCgn-phxkjvan-NAEhZ-qsKWic3BpyI3cM28gj2TvpnuynXz6KCw8VCxRbdFaKVMdJXJg3FeIBevCfY-wAuT0o-QO6D2Sd3SDNro2pFD8?purpose=fullsize)
-
 ## What is RAG Architecture?
 
 RAG Architecture is the complete workflow that combines:
