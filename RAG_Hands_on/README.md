@@ -352,3 +352,7 @@ grounded in real data
 adaptable to new knowledge
 
 ---
+
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/4d0577eb-cf31-43ec-a385-2a057fcea050" />
+
+---
