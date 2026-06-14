@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+openai
+python-dotenv
+mcp
+streamlit
+requests
+google-genai
+httpx
